@@ -1,2 +1,2 @@
 # CodeYourOwnSamuel
-Code Your Own For CS A 
+Code Your Own For AP Computer Science A
